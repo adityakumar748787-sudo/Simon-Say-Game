@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The **Simon Says Game** is a classic memory-based game where players must repeat a sequence of colors or sounds in the correct order. With each round, the sequence becomes longer, challenging the player's memory and concentration.
+The *Simon Says Game* is a classic memory-based game where players must repeat a sequence of colors or sounds in the correct order. With each round, the sequence becomes longer, challenging the player's memory and concentration.
 
 This project is a web-based implementation of the Simon Says game built using modern frontend technologies.
 
